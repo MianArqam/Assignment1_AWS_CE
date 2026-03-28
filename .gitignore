@@ -1,0 +1,28 @@
+# Secrets and local credentials — never commit
+*.pem
+*.ppk
+.env
+.env.*
+!.env.example
+
+# Assignment brief (optional local-only copy)
+Assignment*.pdf
+
+# Dependencies and build output
+node_modules/
+**/node_modules/
+
+# Generated frontend bundles (rebuild with npm run build)
+unievent/dist/
+unievent/build/
+
+# Original screenshot working copies (evidence lives under docs/screenshots/)
+/screenshots/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.log
+.vscode/*
+!.vscode/extensions.json
+.idea/
