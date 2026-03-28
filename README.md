@@ -1,6 +1,6 @@
 # UniEvent — Scalable AWS Deployment
 
-**Course:** CE 308/408 · Cloud Computing  
+**Course:** CE 408 · Cloud Computing  
 **Institution:** Ghulam Ishaq Khan Institute of Engineering Sciences and Technology  
 
 **Student:** Mian Arqam  
